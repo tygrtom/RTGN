@@ -8,7 +8,7 @@
  * File:   Main.cpp
  * Author: tygrtom
  *
- * Created on 15. března 2016, 23:27
+ * Created on 15. března 2016, 23:48
  */
 
 #include <cstdlib>
